@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Harry Potter",
+    "house": "Gryffindor"
+  },
+  {
+    "name": "Ronald Weasley",
+    "house": "Gryffindor"
+  },
+  {
+    "name": "Pomona Sprout",
+    "house": "Hufflepuff"
+  },
+  {
+    "name": "Luna Lovegood",
+    "house": "Ravenclaw"
+  },
+  {
+    "name": "Myrtle Warren",
+    "house": "Ravenclaw"
+  }
+]
